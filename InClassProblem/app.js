@@ -1,8 +1,3 @@
-function dontcopy() {
-    console.log('hi');
-    document.querySelector(".mainNum").innerHTML= 12;
-}
-
 
 
 function upNum() {
